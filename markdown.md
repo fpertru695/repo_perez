@@ -22,6 +22,6 @@
 
  ![PERA] (./pera.png)
  
-[Readme.md] (./README.md)
+Archivo Readme [Aquí] (./README.md)
 /
-[Enlace a la guía] (https://www.markdownguide.org/cheat-sheet/)
+[Enlace a la guía](https://www.markdownguide.org/cheat-sheet/)
