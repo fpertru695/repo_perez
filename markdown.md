@@ -20,8 +20,8 @@
 | 2 | Esto es la Fila 2 |
 
 
- ![PERA] (./pera.png)
+ ![ESTO ES UNA PERA](pera.png)
  
-Archivo Readme [Aquí] (./README.md)
+Archivo Readme [Aquí](README.md)
 /
 [Enlace a la guía](https://www.markdownguide.org/cheat-sheet/)
