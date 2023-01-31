@@ -22,6 +22,5 @@
 
  ![PERA] (pera.png)
  
-[Readme.md] (README.md)
-
+[Readme.md] (/home/fpertru695/GitHub/repo_perez/README.md)
 [Enlace a la guía] (https://www.markdownguide.org/cheat-sheet/)
