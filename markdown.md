@@ -1,6 +1,4 @@
- :joy: # Conclusiones :joy:
- 
- ## Subtítulo
+ ## Conclusiones :joy: :joy :joy
  
  Este es un párrafo con letras en **negrita** y letras en *cursiva*
  
