@@ -18,5 +18,9 @@
 | ----------- | ----------- |
 | 1 | Esto es la Fila 1 |
 | 2 | Esto es la Fila 2 |
+
+
+ ![PERA] (pera.png)
  
+[Readme.md] (~/readme.md)
 [Enlace a la guía] (https://www.markdownguide.org/cheat-sheet/)
