@@ -20,7 +20,7 @@
 | 2 | Esto es la Fila 2 |
 
 
- ![PERA] (pera.png "La pera")
+ ![PERA] (./pera.png)
  
 [Readme.md] (README.md)
 /
