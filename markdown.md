@@ -20,7 +20,7 @@
 | 2 | Esto es la Fila 2 |
 
 
- ![PERA] (pera.png)
+ ![PERA] (/pera.png "La pera")
  
-[Readme.md] (/home/fpertru695/GitHub/repo_perez/README.md)
+[Readme.md] (/README.md)
 [Enlace a la guía] (https://www.markdownguide.org/cheat-sheet/)
