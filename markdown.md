@@ -1,6 +1,6 @@
- :joy: #h1 Conclusiones :joy:
+ :joy: # Conclusiones :joy:
  
- ##h2 Subtítulo
+ ## Subtítulo
  
  Este es un párrafo con letras en **negrita** y letras en *cursiva*
  
@@ -18,9 +18,7 @@
  
  | Tabla | esto es una tabla |
 | ----------- | ----------- |
-| Fila1 | Fila1 |
 | 1 | Esto es la Fila 1 |
-| Fila2 | Fila2 |
 | 2 | Esto es la Fila 2 |
  
 [Enlace a la guía] (https://www.markdownguide.org/cheat-sheet/)
